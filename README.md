@@ -14,11 +14,11 @@
 
 ```ascii
 ╔════════════════════════════════════════════════════════════════════════════╗
-║  🏰                        KINGDOM OF CYBERSECURITY                    🏰  ║
+║  🏰                        KINGDOM OF CYBERSECURITY                    🏰 ║
 ║                                                                            ║
-║           ⚔️  "In the realm of code, I am both shield and sword"  🛡️        ║
+║           ⚔️  "In the realm of code, I am both shield and sword"  🛡️      ║
 ║                                                                            ║
-║                        🎓 HUFLIT University Knight 🎓                      ║
+║                        🎓 HUFLIT University Knight 🎓                     ║
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -46,7 +46,7 @@
 │ 🏰 Castle: HUFLIT University    │
 │ ⚔️ Realm: Ho Chi Minh City      │
 │ 📅 Born: Anno Domini 2004       │
-│ 🎯 GPA: 3.6/4.0 ⭐              │
+│ 🎯 GPA: 3.6/4.0 ⭐             │
 ╰─────────────────────────────────╯
 ```
 
@@ -183,14 +183,14 @@
 
 ```
 ╭───────────────────────────────────────╮
-│            ⚔️ QUEST COMPLETED ⚔️       │
+│            ⚔️ QUEST COMPLETED ⚔️     │
 ├───────────────────────────────────────┤
 │ Objective: Vanquish web vulnerabilities│
 │ Framework: OWASP Top 10                │
 │ Weapons: Burp Suite, Checkmarx         │
 │ Enemies: SQLi, XSS, Broken Access      │
 │ Status: 🏆 VICTORIOUS 🏆              │
-│                                       │
+│                                        │
 │ Achievement Unlocked:                  │
 │ 🛡️ "Web Security Master"              │
 ╰───────────────────────────────────────╯
@@ -202,15 +202,15 @@
 
 ```
 ╭───────────────────────────────────────╮
-│         🛡️ INVESTIGATION CLOSED 🛡️     │
+│         🛡️ INVESTIGATION CLOSED 🛡️   │
 ├───────────────────────────────────────┤
-│ Mission: Uncover network malware       │
-│ Tools: Wireshark, Packet Analysis      │
-│ Evidence: Multiple IOCs recovered      │
-│ Status: 🕵️‍♂️ CASE SOLVED 🕵️‍♂️           │
+│ Mission: Uncover network malware      │
+│ Tools: Wireshark, Packet Analysis     │
+│ Evidence: Multiple IOCs recovered     │
+│ Status: 🕵️‍♂️ CASE SOLVED 🕵️‍♂️            │
 │                                       │
-│ Achievement Unlocked:                  │
-│ 🔍 "Digital Detective"                 │
+│ Achievement Unlocked:                 │
+│ 🔍 "Digital Detective"                │
 ╰───────────────────────────────────────╯
 ```
 </details>
@@ -223,15 +223,15 @@
 
 ```
 ╭───────────────────────────────────────╮
-│           🏰 FORTRESS SECURED 🏰        │
+│           🏰 FORTRESS SECURED 🏰     │
 ├───────────────────────────────────────┤
-│ Challenge: WiFi DoS Attack Detection   │
+│ Challenge: WiFi DoS Attack Detection  │
 │ Arsenal: Python Scapy, 802.11 Analysis│
-│ Enemy: Deauthentication Attacks        │
-│ Status: 🛡️ KINGDOM PROTECTED 🛡️       │
+│ Enemy: Deauthentication Attacks       │
+│ Status: 🛡️ KINGDOM PROTECTED 🛡️      │
 │                                       │
-│ Achievement Unlocked:                  │
-│ 📡 "Wireless Guardian"                 │
+│ Achievement Unlocked:                 │
+│ 📡 "Wireless Guardian"                │
 ╰───────────────────────────────────────╯
 ```
 </details>
@@ -241,14 +241,14 @@
 
 ```
 ╭───────────────────────────────────────╮
-│        🏛️ INFRASTRUCTURE BUILT 🏛️      │
+│        🏛️ INFRASTRUCTURE BUILT 🏛️    │
 ├───────────────────────────────────────┤
-│ Project: Enterprise Network Design     │
-│ Tech: Windows Server, AD, Cisco        │
-│ Features: DNS, DHCP, VLAN, Security    │
-│ Status: 👑 EMPIRE ESTABLISHED 👑       │
+│ Project: Enterprise Network Design    │
+│ Tech: Windows Server, AD, Cisco       │
+│ Features: DNS, DHCP, VLAN, Security   │
+│ Status: 👑 EMPIRE ESTABLISHED 👑     │
 │                                       │
-│ Achievement Unlocked:                  │
+│ Achievement Unlocked:                 │
 │ 🏗️ "Network Architect"                │
 ╰───────────────────────────────────────╯
 ```
@@ -331,9 +331,6 @@
 </table>
 
 ```
-╭─────────────── 🔥 LEGENDARY STREAK 🔥 ───────────────╮
-```
-![GitHub Streak](https://streak-stats.demolab.com?user=SecretJA&theme=radical&background=8B0000&border=D4AF37&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=F4E5C1&sideLabels=F4E5C1&currStreakNum=F4E5C1&sideNums=F4E5C1&dates=F4E5C1&border_radius=15)
 
 <!-- GitHub Activity Graph -->
 ```
@@ -355,7 +352,7 @@
 
 ```
 ╭─────────────────────────────────────╮
-│         🔥 ACTIVE MISSIONS 🔥        │
+│         🔥 ACTIVE MISSIONS 🔥      │
 ├─────────────────────────────────────┤
 │ 🛡️ Advanced Penetration Testing     │
 │ ⚔️ Security Automation Tools        │
@@ -371,10 +368,10 @@
 
 ```
 ╭─────────────────────────────────────╮
-│        🎯 FUTURE CONQUESTS 🎯       │
+│        🎯 FUTURE CONQUESTS 🎯      │
 ├─────────────────────────────────────┤
 │ 🏅 CISSP Certification Quest        │
-│ 🛡️ Bug Bounty Hunting Program      │
+│ 🛡️ Bug Bounty Hunting Program       │
 │ 🏰 Enterprise Security Consulting   │
 │ ⚔️ AI/ML Security Integration       │
 │ 📊 Threat Modeling Frameworks       │
@@ -410,9 +407,9 @@
 
 ```
 ╭───────────────────────────────╮
-│      📱 EMERGENCY CONTACT      │
+│      📱 EMERGENCY CONTACT     │
 ├───────────────────────────────┤
-│ Royal Hotline: (+84) 0767 195 943 │
+│ Royal Hotline: 0767 195 943    │
 │ Castle: Ho Chi Minh City, VN   │
 │ Court: HUFLIT University       │
 │ Timezone: ICT (UTC+7)          │
@@ -424,12 +421,12 @@
 
 ```
 ╭───────────────────────────────╮
-│      🎯 COLLABORATION READY    │
+│     🎯 COLLABORATION READY   │
 ├───────────────────────────────┤
-│ • Security Research Projects   │
-│ • Penetration Testing Tasks    │
-│ • Open Source Contributions    │
-│ • Academic Partnerships        │
+│ • Security Research Projects  │
+│ • Penetration Testing Tasks   │
+│ • Open Source Contributions   │
+│ • Academic Partnerships       │
 ╰───────────────────────────────╯
 ```
 
@@ -459,7 +456,7 @@
 ║              🛡️ "A knight's code is not written in books,                    ║
 ║                   but forged in the fires of dedication"                     ║
 ║                                                                              ║
-║                    ~ Sir Phạm Hoàng Gia Bảo, Knight of Cyber ~              ║
+║                    ~ Sir Phạm Hoàng Gia Bảo, Knight of Cyber ~               ║
 ║                                                                              ║
 ║     ⚔️ May your code be bug-free and your systems ever secure! 🛡️           ║
 ║                                                                              ║
