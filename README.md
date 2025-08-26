@@ -136,7 +136,6 @@ Status: EMPIRE ESTABLISHED 👑
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SecretJA&layout=compact&theme=radical&bg_color=8B0000&title_color=D4AF37&text_color=F4E5C1&border_color=D4AF37)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SecretJA&theme=radical&background=8B0000&border=D4AF37&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=F4E5C1&sideLabels=F4E5C1&currStreakNum=F4E5C1&sideNums=F4E5C1&dates=F4E5C1)
 
 </div>
 
