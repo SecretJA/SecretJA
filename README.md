@@ -332,8 +332,6 @@
 
 ```
 
-<!-- GitHub Activity Graph -->
-```
 ╭────────────── ⚡ KINGDOM ACTIVITY ⚡ ──────────────╮
 ```
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SecretJA&theme=redical&bg_color=8B0000&color=F4E5C1&line=D4AF37&point=D4AF37&area=true&hide_border=false&border_radius=15)
