@@ -196,6 +196,3 @@ Status: EMPIRE ESTABLISHED 👑
 
 ---
 
-<div align="center">
-<sub>⚡ Powered by Medieval Magic & Modern Technology ⚡</sub>
-</div>
