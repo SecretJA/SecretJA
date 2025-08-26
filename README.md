@@ -23,7 +23,7 @@
 ```
 
 <!-- Typing Animation Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&background=FFFFFF00&center=true&vCenter=true&width=800&lines=🗡️+Penetration+Testing+Specialist+🗡️;🏰+Network+Security+Expert+🏰;⚔️+Full+Stack+Developer+⚔️;🛡️+Digital+Forensics+Investigator+🛡️;🎯+OWASP+Security+Champion+🎯)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&background=FFFFFF00&center=true&vCenter=true&width=800&lines=🗡️+Penetration+Testing+Specialist+🗡️;🏰+Network+Security+Expert+🏰;⚔️+Developer+⚔️;🛡️+Digital+Forensics+Investigator+🛡️;🎯+OWASP+Security+Champion+🎯)](https://git.io/typing-svg)
 
 </div>
 
